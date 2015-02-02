@@ -1,10 +1,14 @@
 {
   "name": "biojs-util-snippets",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The snippet core used by the BioJS registry and the sniper",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/biojs/biojs-util-snippets"
   },
   "author": "greenify <greenify@notsharingmy.info> (https://github.com/greenify)",
   "license": "Apache 2",
